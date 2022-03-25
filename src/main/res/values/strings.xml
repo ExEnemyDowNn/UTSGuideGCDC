@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS Ezza Guide GCDC</string>
+    <string name="title_activity_elesis">Elesis</string>
+    <string name="PvE">PvE</string>
+    <string name="PvP">PvP</string>
+    <string name="title_activity_ronan">Ronan</string>
+    <string name="title_activity_harpe">Harpe</string>
+    <string name="title_activity_lime">Lime</string>
+    <string name="title_activity_cindy">Cindy</string>
+</resources>
